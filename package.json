@@ -1,0 +1,14 @@
+{
+  "name": "phaser_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dev_server.js",
+  "scripts": {
+    "dev": "node ./starter/dev_server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
